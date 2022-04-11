@@ -4,7 +4,7 @@ public class StringMethods2 {
     public static void main(String[] args) {
         //replace()
         String str = "Java is fun, I love learning Java";
-        String str1 =str.replace("Java", "Phyton");
+        String str1 =str.replace("Java", "Python");
         System.out.println(str);
         System.out.println(str1);
 
