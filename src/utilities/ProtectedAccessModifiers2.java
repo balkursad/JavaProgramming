@@ -1,7 +1,5 @@
 package utilities;
 
-import FinalKeyword.ProtectedAccessModifier;
-
 public class ProtectedAccessModifiers2 {
 
     public static void main(String[] args) {
