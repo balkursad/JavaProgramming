@@ -45,7 +45,7 @@ public class Person {
     }
 
     public void sleep(){
-        System.out.println(name+ " is nor sleeping");
+        System.out.println(name+ " is not sleeping");
     }
 
     public String toString() {
